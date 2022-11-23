@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samsul kobir</h1>
 <h3 align="center">Web Developer & Designer</h3>
+![Web Developer & Designer](https://media-exp1.licdn.com/dms/image/D5603AQGvOg1Uf0cXYA/profile-displayphoto-shrink_200_200/0/1667163268016?e=1674691200&v=beta&t=w1aPBN8yjGQv6Yon5iBFPaS8VcKq84Z7dQLk-cdp8dQ)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skpixels&label=Profile%20views&color=0e75b6&style=flat" alt="skpixels" /> </p>
 
